@@ -1,0 +1,4 @@
+Sitemap: brunods1001.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
