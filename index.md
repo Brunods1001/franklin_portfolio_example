@@ -20,7 +20,6 @@
 </ul>
 ~~~
 
-## Blog posts
 ~~~
 <ul>
 {{ for p in recent_blog_pages }}
