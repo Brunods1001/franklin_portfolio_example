@@ -8,6 +8,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>brunods1001.github.io/blog/jupyterlite/index.html</loc>
+    <lastmod>2021-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>brunods1001.github.io/blog/test/index.html</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -27,18 +33,12 @@
 </url>
 <url>
     <loc>brunods1001.github.io/index.html</loc>
-    <lastmod>0001-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>brunods1001.github.io/blog_list/index.html</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>brunods1001.github.io/blog/biomarker_plots/index.html</loc>
+    <loc>brunods1001.github.io/blog_list/index.html</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
