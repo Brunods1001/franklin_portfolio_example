@@ -1,11 +1,12 @@
 @def title = "Welcome!"
 @def tags = ["syntax", "code"]
 
-
 # Bruno dos Santos: projects and interests
+
 \tableofcontents <!-- you can use \toc as well -->
 
 ## My projects
+
 ~~~
 <ul>
     <li>
@@ -20,34 +21,36 @@
 </ul>
 ~~~
 
+## Recent blog pages
+
 ~~~
 <ul>
 {{ for p in recent_blog_pages }}
   <li>
-  <a href="{{p}}">{{fill title p}}</a>
+  <a href="{{p}}">{{fill p}}</a>
   </li>
 {{end}}
 </ul>
 ~~~
 
-
-
 ## About me
+
 @@row
 @@container
 @@left ![](/assets/prof_pic_face.jpg) @@
 @@
 I am a curious engineer and programmer interested in improving the human healthspan using modeling and simulation.
+
 ~~~
 <div style="clear: both"></div>
 ~~~
+
 @@
 
-
 ## Contact
+
 Interested in my work? Reach out sometime!
 
 ~~~
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1grebuxaoLKkLHJfr_Pj-hVqifTWrvZlLm-nCftVNCK-6gg/viewform?embedded=true" width="640" height="705" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ~~~
-
